@@ -78,7 +78,7 @@ Adafruit_BMP280::~Adafruit_BMP280(void) {
 /*!
  *  Initialises the sensor.
  *  @param addr
- *         The I2C address to use (default = 0x77)
+ *         The I2C address to use (default = 0x76)
  *  @param chipid
  *         The expected chip ID (used to validate connection).
  *  @return True if the init was successful, otherwise false.
